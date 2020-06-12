@@ -7,8 +7,3 @@
 7.line seven.
 8.line eight.
 9.line nine.
-10.line ten.
-11.line eleven................
-12.line twelve........................
-this is new line here
-this is another new line here
