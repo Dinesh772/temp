@@ -1,6 +1,6 @@
 1.line one.
 2.line two.
-3.line three.
+
 4.line four.
 5.line five.
 6.line six.
@@ -8,3 +8,4 @@
 8.line eight.
 9.line nine.
 10.line ten.
+i dont like number three
